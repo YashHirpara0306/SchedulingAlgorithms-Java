@@ -1,0 +1,9 @@
+ArrivalTimr  BurstTime Priority
+
+0  10  5
+1  6   4
+3  2   2
+5  4   0
+context switching
+1
+this line is for testing purpose only. 
